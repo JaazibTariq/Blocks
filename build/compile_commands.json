@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/mnt/c/Users/jaazi/OneDrive/Desktop/Projects/Blocks/build",
+  "command": "/usr/bin/c++   -I/mnt/c/Users/jaazi/OneDrive/Desktop/Projects/Blocks/src    -std=gnu++17 -o CMakeFiles/p2p-kvstore.dir/src/main.cpp.o -c /mnt/c/Users/jaazi/OneDrive/Desktop/Projects/Blocks/src/main.cpp",
+  "file": "/mnt/c/Users/jaazi/OneDrive/Desktop/Projects/Blocks/src/main.cpp"
+},
+{
+  "directory": "/mnt/c/Users/jaazi/OneDrive/Desktop/Projects/Blocks/build",
+  "command": "/usr/bin/c++   -I/mnt/c/Users/jaazi/OneDrive/Desktop/Projects/Blocks/src    -std=gnu++17 -o CMakeFiles/p2p-kvstore.dir/src/KVStore.cpp.o -c /mnt/c/Users/jaazi/OneDrive/Desktop/Projects/Blocks/src/KVStore.cpp",
+  "file": "/mnt/c/Users/jaazi/OneDrive/Desktop/Projects/Blocks/src/KVStore.cpp"
+},
+{
+  "directory": "/mnt/c/Users/jaazi/OneDrive/Desktop/Projects/Blocks/build",
+  "command": "/usr/bin/c++   -I/mnt/c/Users/jaazi/OneDrive/Desktop/Projects/Blocks/src    -std=gnu++17 -o CMakeFiles/p2p-kvstore.dir/src/Crypto.cpp.o -c /mnt/c/Users/jaazi/OneDrive/Desktop/Projects/Blocks/src/Crypto.cpp",
+  "file": "/mnt/c/Users/jaazi/OneDrive/Desktop/Projects/Blocks/src/Crypto.cpp"
+},
+{
+  "directory": "/mnt/c/Users/jaazi/OneDrive/Desktop/Projects/Blocks/build",
+  "command": "/usr/bin/c++   -I/mnt/c/Users/jaazi/OneDrive/Desktop/Projects/Blocks/src    -std=gnu++17 -o CMakeFiles/p2p-kvstore.dir/src/ThreadPool.cpp.o -c /mnt/c/Users/jaazi/OneDrive/Desktop/Projects/Blocks/src/ThreadPool.cpp",
+  "file": "/mnt/c/Users/jaazi/OneDrive/Desktop/Projects/Blocks/src/ThreadPool.cpp"
+},
+{
+  "directory": "/mnt/c/Users/jaazi/OneDrive/Desktop/Projects/Blocks/build",
+  "command": "/usr/bin/c++   -I/mnt/c/Users/jaazi/OneDrive/Desktop/Projects/Blocks/src    -std=gnu++17 -o CMakeFiles/p2p-kvstore.dir/src/Server.cpp.o -c /mnt/c/Users/jaazi/OneDrive/Desktop/Projects/Blocks/src/Server.cpp",
+  "file": "/mnt/c/Users/jaazi/OneDrive/Desktop/Projects/Blocks/src/Server.cpp"
+},
+{
+  "directory": "/mnt/c/Users/jaazi/OneDrive/Desktop/Projects/Blocks/build",
+  "command": "/usr/bin/c++   -I/mnt/c/Users/jaazi/OneDrive/Desktop/Projects/Blocks/src    -std=gnu++17 -o CMakeFiles/p2p-kvstore.dir/src/ConnectionHandler.cpp.o -c /mnt/c/Users/jaazi/OneDrive/Desktop/Projects/Blocks/src/ConnectionHandler.cpp",
+  "file": "/mnt/c/Users/jaazi/OneDrive/Desktop/Projects/Blocks/src/ConnectionHandler.cpp"
+},
+{
+  "directory": "/mnt/c/Users/jaazi/OneDrive/Desktop/Projects/Blocks/build",
+  "command": "/usr/bin/c++   -I/mnt/c/Users/jaazi/OneDrive/Desktop/Projects/Blocks/src    -std=gnu++17 -o CMakeFiles/p2p-kvstore.dir/src/Node.cpp.o -c /mnt/c/Users/jaazi/OneDrive/Desktop/Projects/Blocks/src/Node.cpp",
+  "file": "/mnt/c/Users/jaazi/OneDrive/Desktop/Projects/Blocks/src/Node.cpp"
+}
+]

@@ -1,0 +1,3 @@
+/mnt/c/Users/jaazi/OneDrive/Desktop/Projects/Blocks/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/jaazi/OneDrive/Desktop/Projects/Blocks/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/jaazi/OneDrive/Desktop/Projects/Blocks/build/CMakeFiles/p2p-kvstore.dir
