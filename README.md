@@ -1,4 +1,4 @@
-# p2p-kvstore
+# VaultLine
 
 A distributed, AES-256 encrypted key-value store built in C++17. Nodes form a peer-to-peer network via a gossip protocol, serve SET/GET/DELETE commands over TCP, and transparently encrypt all stored values using OpenSSL.
 
