@@ -143,6 +143,4 @@ chmod +x scripts/demo.sh
 - **Forward-on-miss**: GET requests that miss locally are forwarded to peers via `FWDGET` (a distinct command that prevents infinite forwarding loops).
 - **RAII throughout**: Sockets, cipher contexts, and threads are all cleaned up deterministically.
 
-## License
 
-This project was built as a portfolio demonstration for systems-level C++ development.
